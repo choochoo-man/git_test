@@ -348,6 +348,6 @@ game.board[5][0] = "♙"
 game.board[5][3] = "♞"
 pp game.board
 pp game.white_king_check?
-# pp game.board
+pp game.board
 game.choose_square
 game.identify_piece
